@@ -1,0 +1,18 @@
+110576664884831
+110576664884831/feed?message=testing API
+
+https://graph.facebook.com/v18.0/110576664884831/feed?message=testing API from postmain 4&published=true&access_token=EAAOyUHcBTFYBO0dJLHHUZAtjthX5ZAVWQsCsFm25kqq3ZAae8ZBOvujmDh4FFJ7madA0v6C6JJX9gHCXit0aBbfMtDxcdjH4ZAVEcijN3wAXhfY1tKX5JAJobNykigeYZBHM0e7vPf8BULN0Vd4qMYztvIECPxYQSK4xcoZB2ncbY2GZC38a9ClYRSTMYtl1xv4tZCBOWm34x91X1CzgZD
+
+
+https://graph.facebook.com/v18.0/110576664884831/photos?Content-Type=application/json&url=https://twh360.com/images/logo.png&access_token=EAAOyUHcBTFYBO0dJLHHUZAtjthX5ZAVWQsCsFm25kqq3ZAae8ZBOvujmDh4FFJ7madA0v6C6JJX9gHCXit0aBbfMtDxcdjH4ZAVEcijN3wAXhfY1tKX5JAJobNykigeYZBHM0e7vPf8BULN0Vd4qMYztvIECPxYQSK4xcoZB2ncbY2GZC38a9ClYRSTMYtl1xv4tZCBOWm34x91X1CzgZD
+
+
+https://graph.facebook.com/110576664884831/video_reels?url=http://localhost/fb/reel.mp4&Content-Type= application/json&upload_phase=start&access_token=EAAOyUHcBTFYBO0dJLHHUZAtjthX5ZAVWQsCsFm25kqq3ZAae8ZBOvujmDh4FFJ7madA0v6C6JJX9gHCXit0aBbfMtDxcdjH4ZAVEcijN3wAXhfY1tKX5JAJobNykigeYZBHM0e7vPf8BULN0Vd4qMYztvIECPxYQSK4xcoZB2ncbY2GZC38a9ClYRSTMYtl1xv4tZCBOWm34x91X1CzgZD
+
+
+https://graph.facebook.com/v18.0/110576664884831/video_reels?
+     -H "" \
+     -d '{
+           "":"start",
+           "access_token":"Your_page_access_token"
+         }'

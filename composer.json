@@ -1,0 +1,12 @@
+{
+    "require": {
+        "facebook/graph-sdk": "^5.7",
+        "php-http/curl-client": "^2.3",
+        "guzzlehttp/psr7": "^2.6"
+    },
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true
+        }
+    }
+}
